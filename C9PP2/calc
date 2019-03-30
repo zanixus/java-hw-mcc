@@ -1,0 +1,36 @@
+import java.util.Scanner;
+public class Calculator extends {
+    private double result;
+    private double precision = 0.0001;
+
+//    public Calculator() {
+//        result = 0;
+//    }
+//
+//    public static void printMsg() {
+//        System.out.printf("Format of each line: ");
+//        System.out.printf("operator number\n");
+//        System.out.printf("For example: + 3\n");
+//        System.out.printf("To end, enter the letter 'e'.\n");
+//    }
+//
+//
+//    public void handleUnknownOpException (UnknownOpException e) {
+//        System.out.printf("Dividing by zero.\n");
+//        System.out.printf("Try again from the beginning.\n");
+//        try {
+//            printMsg();
+//        }
+//        catch (UnknownOpException e2) {
+//            System.out.printf("%s%n", e2.getMessage());
+//            System.out.printf("Unknown operator detected!");
+//            System.out.printf("Program aborted.\n");
+//        }
+//    }
+//
+//    public void handleDivideByZeroException (DivideByZeroException e) {
+//        System.out.printf("Divide by zero attempt detected!\n");
+//        System.out.printf("Program aborted.\n");
+//        System.exit(0);
+//    }
+}

@@ -116,4 +116,7 @@ public class Room {
    public void setOccupied(boolean occupiedPassed) {
       this.occupied = occupiedPassed;
    }
+
+
+
 }//end class
