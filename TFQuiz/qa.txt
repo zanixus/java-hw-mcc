@@ -1,0 +1,10 @@
+true  | Kevin Mallgrave was born in Philadelphia, Pennsylvania.
+false | The Hudson River is between New Jersey and Pennsylvania.
+true  | Kevin was fired from the job he took not long after moving to Massachusetts.
+false | The Philadelphia Eagles beat the New England Patriots in Super Bowl XXXIX (2005)
+true  | The Philadelphia Eagles beat the New England Patriots in Super Bowl LII (2018)
+false | Most people in Southern New Jersey are New York sports fans.
+true  | Philadelphia has a supertall skyscraper.
+false | Connecticut is often considered fun to drive through.
+true  | You can see the skylines of NYC and Philly from Six Flags Great Adventure in NJ.
+true  | Despite all this, Kevin Mallgrave left his home region for the Boston area.
