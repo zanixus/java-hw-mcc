@@ -1,7 +1,8 @@
 public class DriverAppointment
 {
 public static void main(String[] args)
-   {Appointment a1 = new Appointment();
+   {
+   Appointment a1 = new Appointment();
    
    Appointment a2 =
    new Appointment ("April", 13, 2018, 12, 45);
